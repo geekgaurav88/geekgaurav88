@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @geekgaurav88
 - 👀 I’m interested in Data Science and Humanity
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any Data Analytic project
 - 📫 You can reach me at gautamgaurav0015@gmail.com
 
